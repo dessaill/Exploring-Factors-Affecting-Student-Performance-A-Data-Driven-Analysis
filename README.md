@@ -57,3 +57,32 @@ Study Time vs Final Grade – shows how study time influences grades
 
 This project demonstrates how data analytics can uncover insights in education. The trends observed align with general expectations: more study time and consistent attendance lead to better performance, but individual variation exists. This analysis could help educators identify students who may need extra support.
 
+#Next Steps / Extensions
+
+This project can be expanded in several ways to provide deeper insights and demonstrate advanced analytics skills:
+
+Include Portuguese Course Data
+
+Analyze the student-por.csv dataset alongside the Math dataset.
+
+Compare student performance across subjects.
+
+Optionally, merge both datasets to study students enrolled in both courses.
+
+Explore Parental Education and Family Background
+
+Investigate the influence of factors such as parental education (Medu, Fedu) and family relationships (famrel) on student performance.
+
+Use barplots, boxplots, and correlation heatmaps to highlight trends.
+
+Discuss how socio-economic background may shape academic outcomes.
+
+Build Predictive Models
+
+Develop models to estimate final grades (G3) based on multiple features (attendance, study time, family background, etc.).
+
+Start with Linear Regression for interpretability and extend to Random Forests or other machine learning models.
+
+Evaluate performance using metrics such as R² score and Mean Absolute Error (MAE).
+
+Visualize predicted vs actual grades to illustrate model effectiveness.
